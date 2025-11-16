@@ -1,0 +1,10 @@
+=== BASIC MARKOV GENERATION ===
+Three random sentences:
+1. Poore Birds they are not yet come back.
+2. Come, let me clutch thee: I haue thee not, and yet I see thee yet, in forme as palpable, As this which now I draw.
+3. Stand not vpon the order of the course?
+
+Three short sentences (max 100 chars):
+1. Then leaue him out Cyn.
+2. By your pardon: I will my Lord; I pray you all, If you haue teares, prepare to shed them now.
+3. May't please your Highnesse Macb.

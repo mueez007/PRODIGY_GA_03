@@ -1,0 +1,14 @@
+=== ADVANCED POS-AWARE GENERATION ===
+Five random sentences:
+1. You are my true and honourable Wife , As deere to me , and giue me Audience friends .
+2. Hearke , he is dead ?
+3. Well Brutus , thou art Noble  yet I see , So great a day as this is cheapely bought Mal .
+4. Good Madam stay awhile , I will stay at home .
+5. Giue me the Cups , And let him plye his Musicke Reynol .
+
+Five short sentences (max 100 chars):
+1. Let vs hast to heare it , And call in question our necessities Cass .
+2. In the same Pulpit whereto I am going to Caesars Funerall .
+3. Good euen , Caska  And those sparkes of Life , And liue the purer with the other halfe .
+4. As a Friend , it is too late Ham .
+5. Enter King Malcome , Donalbaine , Lenox , Macduff , Rosse , Lords , and Attendants .
